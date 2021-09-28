@@ -21,4 +21,4 @@ Vuetify 输入组件
 
 ## License
 
-See the [LICENSE](https://github.com/jekyll/jekyll/blob/master/LICENSE) file.
+See the [LICENSE](https://github.com/Deoncn/Vuetify/blob/master/LICENSE) file.
