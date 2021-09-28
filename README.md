@@ -7,6 +7,18 @@ Vuetify 输入组件
 
 2.支持换行符的输入。 
 
+## 安装
+
+此input 组件的需要以下程序才能正常的安装和运行：
+
+- Vue
+- VueCLI
+- Node.js
+
+## 演示
+
+[演示站点](https://deoncn.github.io/vuetify-input/) 
+
 ## License
 
 See the [LICENSE](https://github.com/jekyll/jekyll/blob/master/LICENSE) file.
