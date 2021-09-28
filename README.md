@@ -1,2 +1,12 @@
-# vuetify-input
-vuetify input 组件
+# Vuetify
+Vuetify 输入组件
+
+## 效果
+
+1.随着组件输入内容的增加，组件的宽度和高度可以自动扩展，宽度扩展到和组件父容器宽度相同的时候，进行高度的扩展。<br/>
+
+2.支持换行符的输入。 
+
+## License
+
+See the [LICENSE](https://github.com/jekyll/jekyll/blob/master/LICENSE) file.
